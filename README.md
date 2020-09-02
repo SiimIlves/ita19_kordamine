@@ -1,3 +1,3 @@
 # ita19_kordamine
 
-<h1> bruh </h1>
+<h1> bruh :ok_hand: </h1>
